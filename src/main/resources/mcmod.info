@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "Opal",
+    "name": "Opal",
+    "description": "a epic modpack.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Jameison",
+      ".",
+      "."
+    ],
+    "credits": "Jameison",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
